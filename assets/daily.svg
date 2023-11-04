@@ -1,0 +1,31 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="#1E1E1E"/>
+<g id="Landing">
+<g id="3. Course We Offer" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="864" transform="translate(-248 -587)" fill="#ECF8FF"/>
+<g id="Course Cards">
+<g id="Sapling Card">
+<rect x="-35" y="-363" width="496" height="561" rx="8" fill="white"/>
+<g id="Details">
+<g id="Frame 1000001932">
+<g id="Frame 1000001833">
+<g id="Frame" clip-path="url(#clip1_0_1)">
+<path id="Vector" d="M16.6708 1.66675C17.5892 1.66675 18.3333 2.41508 18.3333 3.32508V16.6751C18.3333 17.5909 17.5892 18.3334 16.6708 18.3334H3.33332V15.0001H1.66666V13.3334H3.33332V10.8334H1.66666V9.16675H3.33332V6.66675H1.66666V5.00008H3.33332V1.66675H16.6708ZM6.66666 3.33341H4.99999V16.6667H6.66666V3.33341ZM16.6667 3.33341H8.33332V16.6667H16.6667V3.33341Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<rect x="-35" y="-363" width="496" height="561" rx="8" stroke="#2F80ED" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="864" fill="white" transform="translate(-248 -587)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>
